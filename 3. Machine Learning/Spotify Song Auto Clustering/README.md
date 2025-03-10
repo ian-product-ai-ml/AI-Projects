@@ -1,4 +1,4 @@
-# 🎵 Spotify Song Cohort Analysis  
+# 🎵 Spotify Song Machine Learning Cohort Analysis  
 
 ## 📌 Project Overview  
 This project aims to group songs into **cohorts** based on their characteristics using **clustering techniques**. By analyzing **Rolling Stones' albums on Spotify**, we identify patterns in song attributes and create meaningful song clusters that enhance music recommendations.  
